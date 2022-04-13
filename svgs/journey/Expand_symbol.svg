@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Expand_symbol" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#a86747}
+        </style>
+    </defs>
+    <g id="Ellipse_7" class="cls-1">
+        <circle cx="20" cy="20" r="20"/>
+        <circle cx="20" cy="20" r="19.5" fill="none"/>
+    </g>
+    <g id="Group_149" transform="translate(13.18 13.777)">
+        <path id="Line_54" d="M0 0L0 12.273" class="cls-1" transform="translate(6.73)"/>
+        <path id="Line_55" d="M0 0L13.46 0" class="cls-1" transform="translate(0 6.136)"/>
+    </g>
+</svg>
